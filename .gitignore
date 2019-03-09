@@ -2,3 +2,4 @@
 build*
 Sources/Main.hx
 khafile.js
+.vscode
